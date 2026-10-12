@@ -1,0 +1,5 @@
+Optional files for the photo galleries and music:
+- photo1.jpg through photo9.jpg (up to nine gallery photos)
+- music.mp3
+
+Add your own files here using these exact names, or edit the paths in index.html.
